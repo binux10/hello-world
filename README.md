@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+passionate and enthusiastic young programmer, willing to learn new things
